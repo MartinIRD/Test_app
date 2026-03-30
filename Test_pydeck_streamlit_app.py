@@ -7,7 +7,7 @@ import numpy as np
 from shapely.geometry import box
 
 
-data_path = '/Users/pascalecoubard/Desktop/IRD/3_SEC/4_App/points_test_colours.csv'
+data_path = 'points_test_colours.csv'
 
 # Page config
 st.set_page_config(
